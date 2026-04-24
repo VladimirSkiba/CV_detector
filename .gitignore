@@ -137,6 +137,7 @@ celerybeat.pid
 # Environments
 .env
 .envrc
+.vscode
 .venv
 env/
 venv/
@@ -204,4 +205,8 @@ cython_debug/
 # Marimo
 marimo/_static/
 marimo/_lsp/
+<<<<<<< HEAD
 __marimo__/
+=======
+__marimo__/
+>>>>>>> 77389e6229103e74ec8ea7f8a449d0ea239b3fdc
